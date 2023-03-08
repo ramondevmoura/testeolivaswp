@@ -34,7 +34,7 @@
 			<i class="fas fa-align-right"></i>
 				<ul>
 					<li><a href="/wordpress/">Home</a></li>
-					<li><a href="/wordpress/sobre">Sobre</a></li>
+					<li><a href="/wordpress/projetos">Projetos</a></li>
 					<li><a href="/wordpress/contato">Contato</a></li>
 				</ul>
 			</div><!--menu-mobile-->
