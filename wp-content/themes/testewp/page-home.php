@@ -96,17 +96,17 @@
 			<div class="depoimentos-box">
 				<div class="depoimento-single">
 					<p>"Aliqua quis ut duis eiusmod laboris aliquip elit consequat incididunt occaecat minim in consequat ut id culpa veniam. Ut mollit culpa laboris reprehenderit esse id anim anim quis in sed laborum irure mollit culpa."</p>
-					<p>Guilherme Grillo</p>
+					<p>Gabriel Prado</p>
 					<img src="<?php echo get_theme_root_uri(); ?>/testewp/images/autor.jpg" />
 				</div><!--depoimento-single-->
 				<div class="depoimento-single">
 					<p>"Aliqua quis ut duis eiusmod laboris aliquip elit consequat incididunt occaecat minim in consequat ut id culpa veniam. Ut mollit culpa laboris reprehenderit esse id anim anim quis in sed laborum irure mollit culpa."</p>
-					<p>Guilherme Grillo</p>
+					<p>Gabriel Prado</p>
 					<img src="<?php echo get_theme_root_uri(); ?>/testewp/images/autor.jpg" />
 				</div><!--depoimento-single-->
 				<div class="depoimento-single">
 					<p>"Aliqua quis ut duis eiusmod laboris aliquip elit consequat incididunt occaecat minim in consequat ut id culpa veniam. Ut mollit culpa laboris reprehenderit esse id anim anim quis in sed laborum irure mollit culpa."</p>
-					<p>Guilherme Grillo</p>
+					<p>Gabriel Prado</p>
 					<img src="<?php echo get_theme_root_uri(); ?>/testewp/images/autor.jpg" />
 				</div><!--depoimento-single-->
 			</div><!--depoimentos-box-->
